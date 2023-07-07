@@ -50,3 +50,6 @@ for(let current of numbers){
         numberAboveZero = current;
     }
 }
+
+// array containing values of different datatypes
+const arr:Array<number | boolean | string> = [1,true,"Jon Doe",342]
